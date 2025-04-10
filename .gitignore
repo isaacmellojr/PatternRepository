@@ -1,0 +1,19 @@
+# Ignorar a pasta do Visual Studio
+.vs/
+
+# Pastas de compilação
+bin/
+obj/
+
+# Arquivos temporários do Visual Studio
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+
+# Outros arquivos gerados
+*.dll
+*.exe
+*.vspscc
+*.vssscc
